@@ -1,7 +1,7 @@
 akkaDocInChinese
 ================
 
-akka官方文档的中文翻译
+akka官方文档的中文翻译 http://thycoder.com/akka-doc/index.html
 
 - Akka 技术分享.key	Akka技术分享PPT的keynote版本
 - akka-docs	akka中文版文档的源码
